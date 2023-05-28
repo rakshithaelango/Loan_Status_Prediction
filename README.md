@@ -3,12 +3,13 @@ In this Dataset you can find predicting whether the person is eligible to loan o
 
 # work flow
 * Understanding data 
-* Loading Data
 * Importing necessary libraries 
+* Loading Data
 * Exploring data set 
 * Data cleaning
 * Data pre-processing
 * Lable encoding
+* Data visualization 
 * Train and Test split
 * Applying Machine Learning 
      * Supervised ML (SVM)
